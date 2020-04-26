@@ -1,4 +1,6 @@
 .DS_Store
 .vscode
 .ipynb_checkpoints/
-hospital/
+patient/
+Xray (2017-2018).xlsx
+cc61_df3_vn.xlsx
